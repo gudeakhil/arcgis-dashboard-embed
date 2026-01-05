@@ -46,4 +46,4 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 
 
 ##deployed##
-(https://gudeakhil.github.io/arcgis-dashboard-embed/)
+([https://gudeakhil.github.io/arcgis-dashboard-embed/](https://covid-19-dashboard-g3bym17.public.builtwithrocket.new/healthcare-capacity-monitoring-dashboard))
