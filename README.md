@@ -46,4 +46,4 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 
 
 ##deployed##
-(https://covid-19-dashboard-g3bym17.public.builtwithrocket.new/global-covid-19-overview-dashboard)
+(https://covid-19-dashboard-g3bym17.public.builtwithrocket.new)
